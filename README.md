@@ -24,5 +24,4 @@ Public Contests
 |March 2024 | Revert Lend | Code4rena | 5 Medium |$1,398 |
 |February 2024  | Arcadexyz | Cantina | 1 Medium |$3,013 |
 |October 2023  | NextGen | Code4rena | 2 High - 1 Medium |$2,850 |
-|April 2024  | Zivoe | Sherlock | 2 High |$40 |
 |May 2023 | Venus Protocol Isolated Pools | Code4rena | 1 Medium |$1,807 |
