@@ -1,7 +1,5 @@
 # Audit Portfolio - lanrebayode77
 
-I can be contacted via:
-
 - **X:** @lanrebayode1
 - **Discord:** @olanre_waju
 
